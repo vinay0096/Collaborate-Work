@@ -20,6 +20,11 @@
             </div>        
         </div>
     </div>
+    <div class="container">
+    <div class="jumbotron">
+    Welcome to the Aashaya Foundation
+    </div>
+    </div>
     <div class="navbar navbar-inverse navbar-fixed" >
         <div class="container">
             <div class="navbar-header">
